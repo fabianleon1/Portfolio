@@ -3,9 +3,9 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 
-export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const HERO_CONTENT = `I am passionate about starting in the world of software development, using best practices I like to immerse myself in the development of scalable applications. I developed a taste for front-end and back-end technologies. I would also like to work with a development team to share ideas, cultures and quality time to improve as a person and as a software developer.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `Graduated from computer systems engineering with a taste for technical support, networking and helping end users, I would like to transition into software development to develop my skills and continue learning about new technologies and best practices.`;
 
 export const EXPERIENCES = [
   {
@@ -34,11 +34,11 @@ export const PROJECTS = [
     technologies: ["HTML", "CSS", "Vanilla Javascript"],
   },
   {
-    title: "Task Management App",
+    title: "IP Geolocation",
     image: project2,
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
+      "An application for managing public and private IP ",
+    technologies: ["HTML", "CSS", "Vanilla Javascript"],
   },
   {
     title: "Portfolio Website",
@@ -57,7 +57,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "767 Fifth Avenue, New York, NY 10153 ",
-  phoneNo: "+12 4555 666 00 ",
-  email: "me@example.com",
+  LinkedIn: "767 Fifth Avenue, New York, NY 10153 ",
+  phoneNo: "+52 322 380 8041",
+  email: "fabianleon1209@gmail.com ",
 };
