@@ -13,7 +13,7 @@ export const EXPERIENCES = [
     role: "IT Support",
     company: "Grupo Valsabi",
     description: `I offer technical support services to end users, installation of hardware, software, networks, computer equipment maintenance.  I also offer suggestions for the correct use of equipment in general.`,
-    technologies: ["Maintanmance", "Software", "Network", "IT Support"],
+    technologies: ["Maintenance", "Software", "Network", "IT Support"],
   },
   {
     year: "2023 January - 2023 September",
@@ -45,19 +45,19 @@ export const PROJECTS = [
     image: project3,
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
+    technologies: ["HTML", "CSS", "React"],
   },
   {
     title: "Blogging Platform",
     image: project4,
     description:
       "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
+    technologies: ["HTML", "CSS", "React", "Express", "mySQL" , "Node"],
   },
 ];
 
 export const CONTACT = {
-  LinkedIn: "767 Fifth Avenue, New York, NY 10153 ",
+  LinkedIn: "www.linkedin.com/in/fabian-leon-perez",
   phoneNo: "+52 322 380 8041",
   email: "fabianleon1209@gmail.com ",
 };
